@@ -83,6 +83,8 @@ git clone https://github.com/PleasePrompto/notebooklm-skill notebooklm
 
 ### Google Antigravity Installation
 
+> **Prerequisite**: Please ensure you have read the [official documentation](https://antigravity.google/docs/skills) to understand how to install and manage skills in Google Antigravity.
+
 1. Clone this repository:
 
    ```bash
@@ -95,8 +97,6 @@ git clone https://github.com/PleasePrompto/notebooklm-skill notebooklm
    - **Mac/Linux**: `~/.gemini/antigravity/skills/notebooklm-skill`
 
 3. (Optional) Clean up the temporary directory.
-
-For more details on managing skills, please refer to the [official documentation](https://antigravity.google/docs/skills).
 
 When you first use the skill, it automatically:
 
